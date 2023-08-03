@@ -363,6 +363,17 @@ h2 {
 .certifications ul {
   margin: 0.05in 0 0.15in;
   padding: 0;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+.VisitorInfo {
+  line-height: 1.5;
+}
+
+.VisitorInfo ul {
+  margin: 0.05in 0 0.15in;
+  padding: 0;
 }
 
 .acknowledgement {
