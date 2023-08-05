@@ -1,6 +1,6 @@
 // Function to call the API Gateway and update the visitor counter
 async function updateVisitorCounter() {
-  const apiUrl = "https://v96af7p5q4.execute-api.eu-west-2.amazonaws.com/myapi-stage/execute"; // Replace with your API Gateway URL
+  const apiUrl = "https://m00a6ev3kb.execute-api.eu-west-2.amazonaws.com/myapi-stage/execute"; // Replace with your API Gateway URL
   var userAgent = navigator.userAgent;
   var browserInfo = "";
 
