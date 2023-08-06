@@ -1,7 +1,7 @@
-Attribution
+# Attribution
 I forked this resume template from https://github.com/coolaj86/html-resume (who forked it from: https://github.com/mnjul/html-resume)
 
-No other changes have been made to these Docs. If you're interested in using my fork let me know and I'll update them with relevant info. john@jshaver.net
+No other changes have been made to these Docs.
 
 
 # Print-to-PDF HTML Resume Template
